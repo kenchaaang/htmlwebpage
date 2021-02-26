@@ -1,0 +1,37 @@
+<html>
+
+<head><title> Scaffold 1 </title></head>
+
+<body background="C:\Users\Nets\Downloads\clouds.jpg" style="background-repeat; background-size:100% 100%">
+
+<p align=center>
+<font size= "7", color= "WHITE", face="Times New Roman"><b>Today's hope</b></font>
+<font size= "7", color= "WHITE", face="Times New Roman"><b>is our tomorrow</b></font>
+<br>
+<br>
+<br>
+<p align=center> 
+<img src="C:\Users\Nets\Downloads\week3\139779697_419467145962178_5924833884696207046_n.jpg"width=700,length=350></img>
+<br>
+<br>
+<br>
+<p align=center>
+<font color="black", size="4", face="Arial"><b><i>Surging through today's storm with leaping faith for the morrow's betterment</i></b></font>
+<br>
+<br>
+<br>
+
+<table>
+<table border="1", align="center", <bordercolor="#2F4F4F">
+
+<tr>
+<td bgcolor="1d3557">CONTENT</td>
+<td bgcolor="8ecae6"><a href="https://tlegroup-4.herokuapp.com/?fbclid=IwAR3Vsc-WeGK01y9IrWL2wvovhUisXpp07ClQpNRTSMhWSZb-_LKf6pUe5Yg">HOPE</a></td>
+<td bgcolor="1f7a8c"><a href="https://htmleditors.herokuapp.com/">ABOUT</a></td>
+</tr>
+
+<embed src = "C:\Users\Nets\Downloads\FINISHED TLE ACTIVITIES\MUSIC\Howl's Moving Castle [OST - Theme Song].mp3" type = "audio/mp3" autostart=true> </embed>
+
+</body>
+</table>
+</html>
