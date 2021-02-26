@@ -1,12 +1,12 @@
 <html>
 <head><title> COVID </title></head>
-<body background=""C:\Users\Nets\Downloads\154805914_711340269579557_1464681857496702896_n.jpg">
+<body background="154805914_711340269579557_1464681857496702896_n.jpg">
 <br>
 <center>
 <font face="Arial", size="3">
 <h1 align center> TODAY </h1>
 <br>
-<img src=""C:\Users\Nets\Downloads\102830607_1359634394224236_1805249358090731520_n.jpg">
+<img src="102830607_1359634394224236_1805249358090731520_n.jpg">
 <br>
 <br>
 <br>
@@ -20,7 +20,7 @@ Coronavirus disease 2019 (COVID-19) is defined as illness caused by a novel coro
 <font size="2"> <i> https://www.medscape.com </i> </font> 
 <br>
 <br>
-<img src= ""C:\Users\Nets\Downloads\154406046_455914849092265_4249967502896720481_n.jpg">
+<img src= "154406046_455914849092265_4249967502896720481_n.jpg">
 <br>
 <br>
 <b> SYMPTOMS </b>
@@ -36,7 +36,7 @@ The new strains of coronavirus share the same key symptoms with the initial stra
 <font size="2"> <i> https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/coronavirus-and-your-health/covid-variant <i> </font>
 <br>
 <br>
-<img src= ""C:\Users\Nets\Downloads\121832639_574184253738810_6496264290403418638_n.jpg">
+<img src= "121832639_574184253738810_6496264290403418638_n.jpg">
 <br>
 <br>
 <b> GOVERNMENT'S RESPONSE ON COVID-19 </b>
