@@ -6,7 +6,7 @@
 
 <frame src="Hompage ( Scaffold ).html"">
 
-<frame src="C:\Users\Nets\Downloads\COVID.html">
+<frame src="COVID.html">
 
 </frameset>
 
