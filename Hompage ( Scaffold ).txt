@@ -25,13 +25,12 @@
 
 <table>
 <table border="1", align="center", <bordercolor="#2F4F4F">
-
+<caption>CLICK LINKS HERE!</caption>
 <tr>
 <td bgcolor="1d3557">CONTENT</td>
 </tr>
 
 <tr>
-<td>CLICK HERE--->></td>
 <td bgcolor="8ecae6"><a href="https://tlegroup-4.herokuapp.com/?fbclid=IwAR3Vsc-WeGK01y9IrWL2wvovhUisXpp07ClQpNRTSMhWSZb-_LKf6pUe5Yg">HOPE</a></td>
 </tr>
 
