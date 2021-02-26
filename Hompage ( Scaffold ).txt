@@ -2,7 +2,7 @@
 
 <head><title> Scaffold 1 </title></head>
 
-<body background="C:\Users\Nets\Downloads\clouds.jpg" style="background-repeat; background-size:100% 100%">
+<body background="clouds.jpg" style="background-repeat; background-size:100% 100%">
 
 <p align=center>
 <font size= "7", color= "WHITE", face="Times New Roman"><b>Today's hope</b></font>
