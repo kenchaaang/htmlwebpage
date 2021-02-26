@@ -21,6 +21,8 @@
 <br>
 <br>
 
+<embed src = "Howl's Moving Castle [OST - Theme Song].mp3" type = "audio/mp3" autostart=true> </embed>
+
 <table>
 <table border="1", align="center", <bordercolor="#2F4F4F">
 
@@ -35,8 +37,6 @@
 <tr>
 <td bgcolor="1f7a8c"><a href="https://htmleditors.herokuapp.com/">ABOUT</a></td>
 </tr>
-
-<embed src = Howl's Moving Castle [OST - Theme Song].mp3" type = "audio/mp3" autostart=true> </embed>
 
 </body>
 </table>
